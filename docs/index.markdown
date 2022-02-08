@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+# Welcome to My Blog
+
+This site is under construction.

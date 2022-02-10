@@ -15,7 +15,7 @@ Copyright issues: mail to zhangyih at usc dot edu please do not spam.
 
 ## LaTeX Display
 
-Here are some $$\LaTeX$$ tests.
+Here are some $\LaTeX$ tests.
 
 Some inline math: Binomial formula is $$\binom{n}{k} = \frac{n!}{k!(n-k)!}$$.
 

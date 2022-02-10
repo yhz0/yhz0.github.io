@@ -2,6 +2,7 @@
 layout: post
 date: 2022-02-09 09:46:36
 title: "Transshipment Problem Papers"
+katex: true
 ---
 
 Link to papers:

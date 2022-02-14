@@ -74,8 +74,4 @@ $$g(z) = \frac{1}{2} ||z||^2+I_Z(z)$$
 
 $I_Z$ is the indicator function of set $Z$.
 
-The second equation comes from the fact that $||x-z||$
-
-and $||x-z||^2$
-
-has the same minimizer $z$.
+The second equation comes from the fact that $\\|x-z\\|$ and $\\|x-z\\|^2$ has the same minimizer $z$.
